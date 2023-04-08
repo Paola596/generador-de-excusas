@@ -5,7 +5,7 @@ window.onload = () => {
 };
 
 let generate =() => {
-    let who = ['My dog','The police', 'The tornado', 'My cat', 'My grandpa'];
+    let who = ['My dog','The police', 'A tornado', 'My cat', 'My grandpa'];
     let what = ['ate','took', 'flew', 'float', 'stole'];
     let which = ['my homework','my car', 'my house', 'my chair', 'my cellphone'];
     let when = ['yesterday.','this morning.', 'last night.', 'last week.'];

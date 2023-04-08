@@ -1,0 +1,16 @@
+.container{
+    margin: 0 auto;
+    background-color: rgb(236, 90, 4);
+    color: white;
+    border-radius: 15px;
+    margin-right: 30%;
+    margin-left: 30%;
+    margin-top: 50px;
+    text-align: center;
+    padding: 20px;
+}
+button{
+    background-color: rgb(208, 248, 200);
+    color: rgb(9, 150, 51);
+    border-radius: 50px;
+}
